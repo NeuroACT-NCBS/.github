@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/logo.png" alt="NeuroACT Lab Logo" width="400"/>
+  <img src="/images/logo.png" alt="NeuroACT Lab Logo" width="400"/>
 </p>
 
 <div align="center">
