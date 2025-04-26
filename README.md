@@ -9,7 +9,7 @@
 🔬 Investigating cognitive-motor flexibility across the lifespan  
 🏛️ National Centre for Biological Sciences (NCBS), Bangalore  
 🐀 Integrating neuroscience, behavior, biomechanics, and computation  
-🌐 [www.neuroact.in](https://www.neuroact.in)
+🌐 <a href="https://www.neuroact.in" target="_blank">www.neuroact.in</a>
 
 </div>
 
@@ -26,13 +26,13 @@ Our research focuses on:
 ## 👩🏽‍🔬 Our Team
 
 - **Principal Investigator**: Dr. Abhilasha Joshi  
-- **Research Associates, PhD Students, Interns**: [Meet the team](https://www.neuroact.in/team)
+- **Research Associates, PhD Students, Interns**: <a href="https://www.neuroact.in/team" target="_blank">Meet the team</a>
 
 We welcome students and collaborators passionate about neuroscience, behavior, and computation.
 
 ## 📫 Contact
 
-📬 [Contact us](https://www.neuroact.in/contact)
+📬 <a href="https://www.neuroact.in/contact" target="_blank">Contact us</a>
 
 <p align="center">
 ✨ Thank you for visiting the NeuroACT Lab GitHub! ✨
